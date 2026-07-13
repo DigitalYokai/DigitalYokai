@@ -6,7 +6,7 @@
 </td>
 
 <td width="40%">
-<img src="https://github.com/DigitalYokai/images/blob/main/cat" width="450"/>
+<img src="https://github.com/DigitalYokai/images/blob/main/high.jpg" width="450"/>
 <br><br>
 </td>
 </tr>
