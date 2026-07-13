@@ -1,5 +1,4 @@
 
-```html
 <table>
 <tr>
 <td width="35%" align="center">
@@ -26,6 +25,3 @@ Currently fucking around and finding out
 </td>
 </tr>
 </table>
-```
-# images
-# images
