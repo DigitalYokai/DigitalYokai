@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td width="10%">
-<img src="https://github.com/DigitalYokai/images/blob/main/spy" width="250"/>
+<img src="https://github.com/DigitalYokai/images/blob/main/spy0" width="250"/>
 </td>
 
 <td width="40%">
@@ -12,12 +12,12 @@
 </tr>
 
 <tr>
-<td width="40%">
-<img src="https://github.com/DigitalYokai/images/blob/main/forgive.jpg" width="250"/>
+<td width="60%">
+<img src="https://github.com/DigitalYokai/images/blob/main/forgive.jpg" width="450"/>
 
 </td>
 
-<td width="60%">
+<td width="40%">
 <img src="https://github.com/DigitalYokai/images/blob/main/soldier" width="250"/>
 
 </td>
