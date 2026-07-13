@@ -1,27 +1,26 @@
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="60%">
+<img src="https://raw.githubusercontent.com/DigitalYokai/images/main/spy width="100%">
+</td>
 
-<img src="https://github.com/DigitalYokai/images/blob/main/spy0" width="250" alt="Profile Image">
+<td width="40%">
+<img src="https://raw.githubusercontent.com/DigitalYokai/images/main/cat width="100%">
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/DigitalYokai/images/main/forgive.jpg width="100%">
 
 </td>
 
-<td width="65%">
-
-<h1>Hello,</h1>
-
-<p>
-Currently fucking around and finding out
-</p>
-
-<ul>
-<li>> [!CAUTION] </li>
-<li>[!DISTRUST]</li>
-<li>[!SILENCE]</li>
-</ul>
-
+<td width="60%">
+<img src="https://raw.githubusercontent.com/DigitalYokai/images/main/soldier width="100%">
 
 </td>
 </tr>
 </table>
+
